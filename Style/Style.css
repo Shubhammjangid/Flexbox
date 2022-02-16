@@ -1,0 +1,132 @@
+.Main
+{
+    display: flex;
+    background-color: black;
+}
+.Main2
+{
+    display: flex;
+    background-color: black;
+    justify-content: center;
+}
+.Main3
+{
+    display: flex;
+    background-color: black;
+    justify-content: end;
+
+}
+.Main4
+{
+    display: flex;
+    background-color: black;
+    justify-content: start;
+}
+
+.Main5
+{
+    display: flex;
+    background-color: black;
+    justify-content: space-around;
+}
+
+.Main6
+{
+    display: flex;
+    background-color: black;
+    justify-content: space-between;
+}
+
+.Main6
+{
+    display: flex;
+    background-color: black;
+    justify-content: space-between;
+}
+
+.Main7
+{
+    display: flex;
+    background-color: black;
+    justify-content: space-evenly;
+}
+
+.Main8
+
+{
+    display: flex;
+    background-color: black;
+    justify-content:baseline;
+}
+
+.one
+
+{
+    height: 100px;
+    width: 100px;
+    background-color: cornflowerblue;
+    text-align: center;
+    margin: 10px;
+}
+
+.two
+
+{
+    height: 100px;
+    width: 100px;
+    background-color: cornflowerblue;
+    text-align: center;
+    margin: 10px;
+}
+
+.three
+
+{
+    height: 100px;
+    width: 100px;
+    background-color: cornflowerblue;
+    text-align: center;
+    margin: 10px;
+}
+
+.four
+
+{
+    height: 100px;
+    width: 100px;
+    background-color: cornflowerblue;
+    text-align: center;
+    margin: 10px;
+}
+
+.five
+{
+    height: 100px;
+    width: 100px;
+    background-color: cornflowerblue;
+    text-align: center;
+    margin: 10px;
+}
+
+.six
+{
+    height: 100px;
+    width: 100px;
+    background-color: cornflowerblue;
+    text-align: center;
+    margin: 10px;
+}
+
+.seven
+{
+    height: 100px;
+    width: 100px;
+    background-color: cornflowerblue;
+    text-align: center;
+    margin: 10px;
+}
+
+.text
+{
+    text-align: center;
+}
